@@ -1,0 +1,105 @@
+# Information
+
+**Protein Name: Protein O-linked-mannose beta-1,2-N-acetylglucosaminyltransferase 1 / gene: POMGNT1 MGAT1.2**
+**Uniprot Id: Q8WZA1**
+**Protein alternative names: UDP-GlcNAc:alpha-D-mannoside beta-1,2-N-acetylglucosaminyltransferase I.2**
+**Protein Function: Participates in O-mannosyl glycosylation by catalyzing the addition of N-acetylglucosamine to O-linked mannose on glycoproteins (PubMed:11709191, PubMed:27493216, PubMed:28512129). Catalyzes the synthesis of the GlcNAc(beta1-2)Man(alpha1-)O-Ser/Thr moiety on alpha-dystroglycan and other O-mannosylated proteins, providing the necessary basis for the addition of further carbohydrate moieties (PubMed:11709191, PubMed:27493216). Is specific for alpha linked terminal mannose and does not have MGAT3, MGAT4, MGAT5, MGAT7 or MGAT8 activity**
+
+Develop a **comprehensive nomenclature and functional profile** for the protein introduced in the Information section, strictly following the **Reference Template** in structure and formatting. The output should mirror the organization and style of the template, without introducing new sections such as "Summary" or "Conclusion".
+Also, do not interpret results. For example **DO NOT** add sentences to interpret the findings (such as **suggesting that**, etc.)
+ONLY consider publications and ignore clinical trials/patents/opentargets.
+Prioritize articles with a higher number of citations and prioritize domain leading or highest impact journals.
+
+This template provides an example of expected **section headers, structure and writing tone**. Use it solely to guide the format. You are encouraged to improve the depth and comprehensiveness of your response without being repetitive and speculative.
+
+## Proposed EC/sub-subclass
+- The Enzyme Commission Numbers
+
+---
+
+## Accepted name
+- The recommended name of the GT.
+
+---
+
+## Phylogeny  
+Identify the phylogenetic context of the protein. Include only:  
+- Known orthologs across species
+- Evolutionary relationships with other glycosyltransferasers  
+- Group and family assignment within the glycome based on the priority publications and data sources below  
+ 
+---
+
+## Glycosyltransfearse family
+- The GT family name
+
+---
+
+## Reaction Catalyzed  
+Mention the **chemical reaction** catalyzed by this glycosyltransferase. Include only:  
+- the reaction catalyzed with nucleotide/non-nucleotide sugar substrates and products, as described in the template  
+
+---
+
+## Cofactor Requirements  
+Indicate whether the catalytic activity of the protein introduced in the Information section depends on cofactors. Include only:  
+- co factor requirement (e.g., Mg²⁺, Mn²⁺), as described in the template    
+
+---
+
+## Substrate Specificity
+Detail the substrate specificity of the protein introduced in the Information section. Include only:  
+- Consensus substrate motifs, if known, based on the priority publication and data source below:  
+- Amino acid preferences in the substrate motif  
+
+---
+
+## Structure  
+Describe the 3D structure of the protein introduced in the Information section. Include only:  
+- Domain organization and brief function of each domain  
+- 3D structural organization based on published crystal structures or AlphaFold models    
+- Key catalytic and regulatory features such as the donor or acceptor binding sites, hypervariable loops, catalytic base
+- Unique structural features based on experimentally derived 3D structure or models
+
+---
+
+## Regulation  
+Summarize regulatory mechanisms. Include only:  
+- Post-translational modifications (phosphorylation, ubiquitination, etc.)  
+- Known modification sites  
+- Enzymes responsible for these modifications  
+- Functional effects of modifications (e.g., activation, inhibition)  
+- Allosteric and conformational regulation, if known  
+
+---
+
+## Function  
+Explain the biological roles of the protein introduced in the Information section. Include only:  
+- Expression patterns (tissue or cell-specific)  
+- Upstream/downstream enzymes, substrates and interacting partners
+- Role in glycan related pathways  
+
+---
+
+## Inhibitors  
+This section is optional. Only include if known inhibitors (experimental or clinical) exists for this glycosyltransferase, otherwise do not include this section in output.
+
+---
+
+## Disease relevance
+- Disease associations  
+- Notable disease mutations and their functional impact 
+
+---
+
+## Other Comments  
+Include any relevant additional information.  
+   
+---
+
+# Output Guidelines
+
+- Do **not** include speculative or inferred content  
+- If multiple sources provide contradictory information, state the contradiction  
+- Strive for clarity, completeness, and adherence to the style and depth of the reference template
+- Do not include theses or articles with unknown journal

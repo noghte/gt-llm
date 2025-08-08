@@ -1,0 +1,4 @@
+.env
+__pycache__/
+futurehouse/all_responses.json
+futurehouse/all_responses_retry.json

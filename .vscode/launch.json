@@ -1,0 +1,65 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "GT Pipeline: submit",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/gt_pipeline.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}",
+            "args": [
+                "submit"
+            ],
+            "envFile": "${workspaceFolder}/.env",
+            "justMyCode": true,
+        },
+        {
+            "name": "GT Pipeline: poll",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/gt_pipeline.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}",
+            "args": [
+                "poll"
+            ],
+            "envFile": "${workspaceFolder}/.env",
+            "justMyCode": true
+        },
+        {
+            "name": "GT Pipeline: summarize",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/gt_pipeline.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}",
+            "args": [
+                "summarize",
+                "--model",
+                "gpt-4o-mini",
+                "--temperature",
+                "0.2"
+            ],
+            "envFile": "${workspaceFolder}/.env",
+            "justMyCode": true
+        },
+        {
+            "name": "GT Format Outputs (direct)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/format_existing_outputs.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}",
+            "args": [
+                "--responses",
+                "./futurehouse/responses_20250601_231801.json",
+                "--out",
+                "./futurehouse/outputs"
+                // "--overwrite"
+            ],
+            "envFile": "${workspaceFolder}/.env",
+            "justMyCode": true
+        }
+    ]
+}

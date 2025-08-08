@@ -1,0 +1,43 @@
+
+
+# Objective (Task)
+
+Summarize and reformat the structure and wording and tone of the following nomenclature to be similar to the template. 
+## Nomenclature:\n{nomenclature}\n\n
+## Template:\n{template}
+
+
+## 1. Phylogeny  
+Summarize and identify the phylogenetic context of the protein based on the provided Nomenclature focusing particularly on the Phylogeny section. 
+
+## 2. Reaction Catalyzed  
+Summarize and mention the **chemical reaction** catalyzed by this kinase based on the provided Nomenclature focusing particularly on the Reaction Catalyze section. Include only the reaction catalyzed with ATP substrates and products from the provided Nomenclature.
+
+## 3. Cofactor Requirements  
+Include only cofactor requirement (e.g., Mg²⁺, Mn²⁺) based on the provided Nomenclature.
+
+## 4. Substrate Specificity
+Summarize the substrate specificity of the protein based on the provided Nomenclature focusing particularly on the Substrate Specificity section.
+  
+## 5. Structure  
+Summarize the 3D structure of the protein based on the provided Nomenclature. 
+
+## 6. Regulation  
+Summarize regulatory mechanisms based on the provided Nomenclature focusing particularly on the Regulation section.
+
+## 7. Function  
+Summarize the biological roles of the protein based on the provided Nomenclature focusing particularly on the Function section.
+  
+
+## 8. Other Comments  
+Summarize the Other Comments section of the provided Nomenclature.
+
+## 9. References
+Include all the References used to create this nomenclature with a consistent format.
+
+---
+
+# Output Guidelines
+
+- Do not miss inline References (include PubMed ID only) 
+- Do **not** include speculative or inferred content  

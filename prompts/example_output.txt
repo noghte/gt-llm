@@ -1,0 +1,63 @@
+## Proposed EC/sub-subclass
+2.4.1.101 
+ 
+## Accepted name
+Mannosyl (alpha-1,3-)-glycoprotein beta-1,2-N-acetylglucosaminyltransferase 
+ 
+## Synonyms
+It was first called UDP-GlcNAc:a- D-mannoside b2-N-acetylglucosaminyltransferase I, abbreviated as GlcNAc-TI (or GlcNAcT-I, GnTI or NAGT) 
+ 
+## Phylogeny
+Essential function, conserved in eukaryotes. 
+ 
+## Glycosyltransfearse family
+GT13 
+ 
+## Reaction catalyzed
+N4-(alpha-D-Man-(1->3)-[alpha-D-Man-(1->3)-[alpha-D-Man-(1->6)]-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-beta-D-GlcNAc)-L-asparaginyl-[protein] (N-glucan mannose isomer 5A1,2) + UDP-N-acetyl-alpha-D-glucosamine = N4-{beta-D-GlcNAc-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->3)-[alpha-D-Man-(1->6)]-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-beta-D-GlcNAc}-L-asparaginyl-[protein] + UDP + H+ 
+ 
+## Cofactor requirements
+Mn++ 
+ 
+## Substrate Specificity
+When MGAT1 was partially purified from rat liver, it was found to prefer the Man5 acceptor Mana1,3Mana1,6(Mana1,6Mana1,3)Manb1,4GlcNAcb1,4GlcNAcb1Asn over the (Mana1,3Mana1,6)Manb1,4GlcNAcb1,4GlcNAcb1Asn acceptor originally used (Oppenheimer and Hill 1981). Since glycoproteins from Lec1 CHO cells have Man5GlcNAc2Asn in place of complex N-glycans (Robertson et al. 1978; Tabas et al. 1978), the preference of MGAT1 for Man5GlcNAc2Asn was consistent with it being an important in vivo substrate of MGAT1. 
+ 
+## Structure
+MGAT1 is a type II transmembrane protein of 447 amino acids (Kumar et al. 1990; Sarkar et al. 1991) that resides in the medial Golgi and functions primarily as a homodimer or heterodimer (Hassinen et al. 2011). It carries O-glycans but no N-glycans (Hoe et al. 1995). Crystal structures of the catalytic domain of rabbit MGAT1 alone (Unligil et al. 2000) and in complex with various substrate analogues (Gordon et al. 2006) have been deposited in PDB (PDB: FO8, 1FOA, 2AM3, 2AM4, 2AM5, 2APC). Point mutations that inactivate MGAT1 include the conversion of the conserved Cys at position 123 to Arg (Puthalakath et al. 1996), conversion of the conserved Gly at position 320 to Asp (Opat et al. 1998) and most recently, three inactivating mutations R415K, D291N, and P138L (Zhong et al. 2012). MGAT1 lacking the first 106 amino acids including the cytoplasmic, transmembrane, and stem domains is active, but removal of the C-terminal seven amino acids results in a 40 % reduction in activity (Sarkar et al. 1998). Missense mutations that dramatically increase the apparent Km of MGAT1 for both substrates were identified in Lec1A CHO mutants and include conversion of Asp 212 to Asn or Arg 303 to Tryp (Chen et al. 2001). There are also a number of deletion mutations (Chen and Stanley 2003; Zhong et al. 2012). 
+ 
+## Regulation
+At the transcriptional level, MGAT1 expression is modulated by pathways like the Wnt/β-catenin signaling, where its activation leads to increased MGAT1 mRNA and protein levels, promoting cell proliferation and migration in certain cancers like hepatocellular carcinoma (Akiva & Iyison 2018). Studies also highlight a high lactate environment increasing MGAT1 transcription, mediated by transcription factor XBP1s, which facilitates MGAT1's translocation to mitochondria, impacting Treg cell function and immune balance (Zhou et al. 2024). Post-translationally, MGAT1 catalyzes the addition of GlcNAc to target proteins, crucially regulating complex N-glycan synthesis. This modification influences protein folding, localization, and function, as evidenced by MGAT1-mediated glycosylation of CD73, which impacts its dimerization and membrane translocation, ultimately affecting adenosine production and immune evasion in breast cancer (Chi et al. 2025). Environmental factors, such as metabolism and vitamin D3, can also influence MGAT1 activity and N-glycosylation patterns, linking genetics and environment in diseases like multiple sclerosis (Mkhikian et al. 2011). Additionally, MGAT1's interaction with other proteins like DGAT2 and potential inhibition by GnT1IP-L further contributes to its regulation and the downstream effects on metabolic pathways and cellular functions (Lee et al. 2017; Huang et al. 2015). 
+ 
+## Function
+Initiates complex N-linked carbohydrate formation. Essential for the conversion of high-mannose to hybrid and complex N-glycans.
+ 
+## Disease relevance
+Studies demonstrating that T cells in mice use complex N-glycans for regulation of their activation state led to a GWAS study of genes coding for GlcNAc-transferases of the N-glycan pathway in cohorts with multiple sclerosis. Intriguingly, disease-associated SNPs in MGAT1 were found to increase MGAT1 activity and thereby decrease N-glycan branching (Mkhikian et al. 2011). This leads to prolonged activation of T cells and may be an important factor in the development and/or progression of multiple sclerosis. 
+ 
+## Other comments
+Since a lack of MGAT1 should not alter the synthesis or processing of N-glycans in the endoplasmic reticulum (ER), nor in the cis Golgi, glycoproteins are not expected be compromised in their interactions with ER chaperones like calnexin and calreticulin, and lysosomal enzymes will acquire their usual complement of Man-6-phosphate residues for targeting to lysosomes. Thus, a lack of MGAT1 affects N-glycan structures later in the secretory pathway leading to a dramatic alteration in the array of N-glycans expressed at the cell surface because all complex and hybrid N-glycans are replaced by Man 5 GlcNAc 2 Asn. While this change may not significantly affect biological or structural properties of a recombinant glycoprotein, it has a major effect on the tissue targeting of recombinant glycoproteins. Glycoproteins with oligomannosyl N-glycans are targeted to the reticuloendothelial system. In addition, if mammalian cells are stressed by reducing the serum concentration of culture medium, growth is slowed and growth factor signaling is reduced in the absence of branched, complex N-glycans (Song et al. 2010; Beheshti Zavareh et al. 2012). 
+ 
+## References
+- Akama TO, Nakagawa H, Wong NK, Sutton-Smith M, Dell A et al (2006) Essential and mutually compensatory roles of (alpha)-mannosidase II and (alpha)-mannosidase IIx in N-glycan processing in vivo in mice. Proc Natl Acad Sci USA 103:8983–8988 
+- Akiva, I., Birgül Iyison, N. MGAT1 is a novel transcriptional target of Wnt/β-catenin signaling pathway. BMC Cancer 18, 60 (2018). https://doi.org/10.1186/s12885-017-3960-7 
+- Beheshti Zavareh R, Sukhai MA, Hurren R, Gronda M, Wang X, Simpson CD, Maclean N, Zih F, Ketela T, Swallow CJ, Moffat J, Rose DR, Schachter H, Schimmer AD, Dennis JW (2012) Suppression of cancer progression by MGAT1 shRNA knockdown. PLoS One 7:e43721 
+- Campbell RM, Metzler M, Granovsky M, Dennis JW, Marth JD (1995) Complex asparagine-linked oligosaccharides in Mgat1-null embryos. Glycobiology 5:535–543 
+- Chaney W, Stanley P (1986) Lec1A Chinese hamster ovary cell mutants appear to arise from a structural alteration in N-acetylglucosaminyltransferase I. J Biol Chem 261:10551–10557 
+- Chen W, Stanley P (2003) Five Lec1 CHO cell mutants have distinct Mgat1 gene mutations that encode truncated N-acetylglucosaminyltransferase I. Glycobiology 13:43–50 
+- Chen S, Zhou S, Sarkar M, Spence AM, Schachter H (1999) Expression of three Caenorhabditis elegans N-acetylglucosaminyltransferase I genes during development. J Biol Chem 274:288–297 
+- Chi JJ, Xie P, Cheng MH, Zhu Y, Cui X, Watson J, Zeng L, Uddin A, Nguyen H, Li L, Moremen K, Reedy A, Wyatt M, Marcus A, Dai M, Paulos CM, Cristofanilli M, Gradishar WJ, Zhao S, Kalinsky K, Hung MC, Bahar I, Zhang B, Wan Y. MGAT1-Guided complex N-Glycans on CD73 regulate immune evasion in triple-negative breast cancer. Nat Commun. 2025 Apr 15;16(1):3552. doi: 10.1038/s41467-025-58524-9. PMID: 40229283; PMCID: PMC11997035. 
+- Gordon RD, Sivarajah P, Satkunarajah M, Ma D, Tarling CA et al (2006) X-ray crystal structures of rabbit N-acetylglucosaminyltransferase I (GnT I) in complex with donor substrate analogues. J Mol Biol 360:67–79 
+- Hoe MH, Slusarewicz P, Misteli T, Watson R, Warren G (1995) Evidence for recycling of the resident medial/trans Golgi enzyme, N-acetylglucosaminyltransferase I, in ldlD cells. J Biol Chem 270:25057–25063 
+- Hung-Hsiang Huang, Antti Hassinen, Subha Sundaram, Andrej-Nikolai Spiess, Sakari Kellokumpu, Pamela Stanley (2015) GnT1IP-L specifically inhibits MGAT1 in the Golgi via its luminal domain eLife 4:e08916 
+- Ioffe E, Stanley P (1994) Mice lacking N-acetylglucosaminyltransferase I activity die at mid-gestation, revealing an essential role for complex or hybrid N-linked carbohydrates. Proc Natl Acad Sci USA 91:728–732 
+- Ioffe E, Liu Y, Stanley P (1997) Complex N-glycans in MGAT1 null preimplantation embryos arise from maternal MGAT1 RNA. Glycobiology 7:913–919 
+- Lee YJ, Kim JW. Monoacylglycerol O-acyltransferase 1 (MGAT1) localizes to the ER and lipid droplets promoting triacylglycerol synthesis. BMB Rep. 2017 Jul;50(7):367-372. doi: 10.5483/bmbrep.2017.50.7.036. PMID: 28347400; PMCID: PMC5584744. 
+- Mkhikian H, Grigorian A, Li CF, Chen HL, Newton B et al (2011) Genetics and the environment converge to dysregulate N-glycosylation in multiple sclerosis. Nat Commun 2(334):1–13 
+- Sarkar M, Pagny S, Unligil U, Joziasse D, Mucha J, Glossl J, Schachter H (1998) Removal of 106 amino acids from the N-terminus of UDP-GlcNAc: a-3- D- mannoside b-1,2-N-acetylglucosaminyltransferase I does not inactivate the enzyme. Glycoconj J 15:193–197 
+- Sarkar M, Iliadi KG, Leventis PA, Schachter H, Boulianne GL (2010) Neuronal expression of Mgat1 rescues the shortened life span of Drosophila Mgat11 null mutants and increases life span. Proc Natl Acad Sci USA 107:9677–9682 
+- Schachter H (2010) Mgat1-dependent N-glycans are essential for the normal development of both vertebrate and invertebrate metazoans. Sem Cell Dev Biol 21:609–615 
+- Unligil UM, Zhou S, Yuwaraj S, Sarkar M, Schachter H, Rini JM (2000) X-ray crystal structure of rabbit N-acetylglucosaminyltransferase I, a key enzyme in the biosynthesis of N-linked glycans. EMBO J 19:5269–5280 
+- Yang J, Bhaumik M, Liu Y, Stanley P (1994) Regulation of N-linked glycosylation. Neuronal cell-specific expression of a 50 extended transcript from the gene encoding N-acetylglucosaminyltransferase I. Glycobiology 4:703–712 
+- Yip B, Chen SH, Mulder H, Hoppener JW, Schachter H (1997) Organization of the human b-1,2-N-acetylglucosaminyltransferase I gene (MGAT1), which controls complex and hybrid N-glycan synthesis. Biochem J 321:465–474 
+- Zhong X, Cooley C, Seth N, Juo ZS, Presman E, Resendes N, Kumar R, Allen M, Mosyak L, Stahl M, Somers W, Kriz R (2012) Engineering novel Lec1 glycosylation mutants in CHO-DUKX cells: molecular insights and effector modulation of N-acetylglucosaminyltransferase I. Biotech Bioeng 109:1723–1734 
+- Zhou J, Gu J, Qian Q, Zhang Y, Huang T, Li X, Liu Z, Shao Q, Liang Y, Qiao L, Xu X, Chen Q, Xu Z, Li Y, Gao J, Pan Y, Wang Y, O'Connor R, Hippen KL, Lu L, Blazar BR. Lactate supports Treg function and immune balance via MGAT1 effects on N-glycosylation in the mitochondria. J Clin Invest. 2024 Sep 12;134(20):e175897. doi: 10.1172/JCI175897. PMID: 39264847; PMCID: PMC11473165. 
